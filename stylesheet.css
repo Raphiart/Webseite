@@ -5,4 +5,11 @@ body {
 .heading {
     color: floralwhite;
     font-family: monospace;
+    text-decoration-line: underline;
+}
+
+.text {
+    color: floralwhite;
+    font-family: monospace;
+    font-size: small;
 }
